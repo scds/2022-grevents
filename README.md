@@ -5,6 +5,4 @@ Contributions by the following individuals:
 - Content edited for online use by Veronica Litt
 - Online pages created by Veronica Litt
 
-
-  
 All content is made available under a GNU General Public License v3.0.
