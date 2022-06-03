@@ -18,9 +18,9 @@ The three projects discussed here highlight the diverse forms that digital scho
 
 # Watch a Recording of the Graduate Resident Panel
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/fdad3875-b6fa-457f-afd7-5db9959637e6/public"></iframe>
 
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
+View the original [here](https://echo360.ca/media/fdad3875-b6fa-457f-afd7-5db9959637e6/public).
 
 # Relevant Links:
 - Cameron Anderson's [Shiny App](https://cmndrsn.shinyapps.io/clusterappgitlab/)
@@ -42,6 +42,6 @@ We were delighted to host Abeer Siddiqui, a celebrated teacher with a record of 
 
 # Watch a Recording of Abeer Siddiqui's Guest Lecture 
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/1688fb51-7c23-4d4f-956b-874ceae0dc58/public"></iframe>
 
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
+View the original [here](https://echo360.ca/media/1688fb51-7c23-4d4f-956b-874ceae0dc58/public).
