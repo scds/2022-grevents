@@ -30,6 +30,7 @@ View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076
 - Duygu Ertemin's SCDS Blog Post, ["Reflecting on my Residency at the Sherman Centre for Digital Scholarship"](https://scds.ca/reflecting-on-my-residency-at-the-sherman-centre-for-digital-scholarship/)
 - Brianne Morgan and Akacia Propst's science blog, [The Null Hypothesis](https://theh0hypothesis.wixsite.com/website) 
 - Brianne Morgan and Akacia Propst's SCDS Blog Post, ["Feel free to get your pun on": Creating a space for science communication"](https://scds.ca/feel-free-to-get-your-pun-on-creating-a-space-for-science-communication/)
+-  Learn about the [2021 SCDS Graduate Residents](https://scds.ca/2021-sherman-graduate-residents/)
 
 # II. Exploring Barriers to Misinformation Interventions in Public Libraries: A Guest Lecture by Abeer Siddiqui
 
