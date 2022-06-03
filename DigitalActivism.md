@@ -22,6 +22,10 @@ Adrianna Michell analyzed the Twitter hashtag #PaidSickDaysSaveLives, where wor
 
 View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
 
+## Relevant Links
+- Jess Rauchberg's SCDS Blog Post, ["Bestie Vibes Only? Disabled Content Creators, Shadowbanning, and the Politics of Authenticity" ](https://scds.ca/disabled-creators-shadowbanning/)
+- Learn about the [2021 SCDS Graduate Residents](https://scds.ca/2021-sherman-graduate-residents/)
+
 ## II. Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller
 
 <img src="assets/img/Keller.jpg" alt="Workshop Title Slide" width="720">
