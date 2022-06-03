@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Media and Digital Activism 
+title: Social Media & Digital Activism 
 nav_order: 3
 ---
 
