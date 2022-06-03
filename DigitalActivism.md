@@ -4,9 +4,9 @@ title: Social Media Digital Activism
 nav_order: 3
 ---
 
-# Social Media and Digital Activism 
+# Social Media and Digital Activism Events
 
-## Content Creators, Digital Labour, and Online Identities: A SCDS Graduate Resident Panel
+## I. Content Creators, Digital Labour, and Online Identities: A SCDS Graduate Resident Panel
 
 <img src="assets/img/DigitalActivism.png" alt="Workshop Title Slide" width="720">
 
@@ -16,13 +16,13 @@ At this virtual panel, Sherman Centre Graduate Residents will share their in-pr
 
 Adrianna Michell analyzed the Twitter hashtag #PaidSickDaysSaveLives, where workers in Ontario, Canada, expressed concerns over government sick leave policies amidst the early months of the COVID-19 pandemic. Emma Croll-Baehre examined how twin content creators across diverse platforms articulate and mediate their digital selves and lives. Jess Rauchberg explored the communicative strategies that censored or "shadowbanned" disabled TikTok and Instagram Creators rely upon for platform engagement. Special guest Professor Jessalynn Keller (Communication, Media, and Film, University of Calgary) then joined the session for a formal response to the Graduate Residents' presentations.
 
-## Watch a Recording of the Panel 
+## Watch a Recording of the Graduate Resident Panel 
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
 
 View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
 
-## Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller
+## II. Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller
 
 <img src="assets/img/Keller.jpg" alt="Workshop Title Slide" width="720">
 
@@ -32,7 +32,7 @@ Beginning with the recent case study of #WitchTheVote (based on a paper co-writt
 
 Taken together, these case studies highlight the need for further historical analysis of the feminist Internet, while illuminating how Internet practices have been at the crux of tensions and reworkings of feminisms for over two decades.
 
-## Watch a Recording of the Guest Lecture
+## Watch a Recording of Dr. Jessalynn Keller's Guest Lecture
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
 
