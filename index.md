@@ -13,7 +13,7 @@ Each year, the Sherman Centre's Graduate Residents are invited to conceptualize 
 
 <img src="assets/img/ScienceCommunication.png" alt="Workshop Title Slide" width="720">
 
-"Towards More Effective Science Communication with the Benefit of Digital Scholarship: A SCDS Graduate Resident Panel"
+<b> "Towards More Effective Science Communication with the Benefit of Digital Scholarship: A SCDS Graduate Resident Panel" </b>
 
 How can scholars best communicate scientific analyses and results? How can we engage wider audiences in scientific research?
 
@@ -33,7 +33,7 @@ We were delighted to host Abeer Siddiqui, a celebrated teacher with a record of 
 
 <img src="assets/img/DigitalActivism.png" alt="Workshop Title Slide" width="720">
 
-"Content Creators, Digital Labour, and Online Identities: A SCDS Graduate Resident Panel"
+<b> "Content Creators, Digital Labour, and Online Identities: A SCDS Graduate Resident Panel" </b>
 
 What role do social media platforms play in forming and negotiating digital labour? How do platforms frame online selves and lives as intelligible or otherwise? What are the cultural and communicative practices Creators and users rely on to mediate their identities in digital spaces?
 
@@ -43,7 +43,7 @@ Adrianna Michell analyzed the Twitter hashtag #PaidSickDaysSaveLives, where wor
 
 <img src="assets/img/Keller.jpg" alt="Workshop Title Slide" width="720">
 
-"Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller"
+<b> "Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller" </b>
 
 Recent feminist media studies scholarship has attended to the ways in which feminism’s current popularity is intertwined with the logics of digital media platforms and neoliberal capitalism. But, has it always been? And, does it have to be? This work-in-progress talk by special guest Professor Jessalynn Keller (Communication, Media, and Film, University of Calgary) considers the possibilities for oppositional feminist politics online across both contemporary and historical contexts.
 
