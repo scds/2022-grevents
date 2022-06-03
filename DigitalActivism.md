@@ -6,7 +6,7 @@ nav_order: 3
 
 # Social Media and Digital Activism 
 
-## "Content Creators, Digital Labour, and Online Identities: A SCDS Graduate Resident Panel" 
+## Content Creators, Digital Labour, and Online Identities: A SCDS Graduate Resident Panel
 
 <img src="assets/img/DigitalActivism.png" alt="Workshop Title Slide" width="720">
 
@@ -22,7 +22,7 @@ Adrianna Michell analyzed the Twitter hashtag #PaidSickDaysSaveLives, where wor
 
 View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
 
-## "Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller" 
+## Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller
 
 <img src="assets/img/Keller.jpg" alt="Workshop Title Slide" width="720">
 
