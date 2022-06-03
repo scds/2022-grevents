@@ -11,9 +11,9 @@ Each year, the Sherman Centre's Graduate Residents are invited to conceptualize 
 
 <img src="assets/img/ScienceCommunication.png" alt="Workshop Title Slide" width="720">
 
-Navigate to the "Science Communication and Digital Scholarship" module to watch recordings of the Graduate Panel featuring Cameron Anderson, Duygu Ertemin, Brianne Morgan, and Akacia Propst, and the Guest Lecture by Abeer Siddiqui, Science Librarian, McMaster University. 
+Navigate to the ["Science Communication and Digital Scholarship"](https://scds.github.io/2022-grevents/ScienceCommunication.html) module to watch recordings of the Graduate Panel featuring Cameron Anderson, Duygu Ertemin, Brianne Morgan, and Akacia Propst, and the Guest Lecture by Abeer Siddiqui, Science Librarian, McMaster University. 
 
 <img src="assets/img/DigitalActivism.png" alt="Workshop Title Slide" width="720">
 
-Navigate to the "Social Media and Digital Activism" module to watch recordings of the Graduate Panel featuring Emma Croll-Baehre and Adrianna Michell, and the Guest Lecture by Dr. Jessalynn Keller, Associate Professor of Communication, Media, and Film, University of Calgary. 
+Navigate to the ["Social Media and Digital Activism"](https://scds.github.io/2022-grevents/DigitalActivism.html) module to watch recordings of the Graduate Panel featuring Emma Croll-Baehre and Adrianna Michell, and the Guest Lecture by Dr. Jessalynn Keller, Associate Professor of Communication, Media, and Film, University of Calgary. 
 
