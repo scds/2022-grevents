@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Media Digital Activism 
+title: Social Media and Digital Activism 
 nav_order: 3
 ---
 
@@ -18,9 +18,9 @@ Adrianna Michell analyzed the Twitter hashtag #PaidSickDaysSaveLives, where wor
 
 ## Watch a Recording of the Graduate Resident Panel 
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c297b8e4-7227-43b4-a5ca-e32d49f9b208/public"></iframe>
 
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
+View the original [here](https://echo360.ca/media/c297b8e4-7227-43b4-a5ca-e32d49f9b208/public).
 
 ## Relevant Links
 - Jess Rauchberg's SCDS Blog Post, ["Bestie Vibes Only? Disabled Content Creators, Shadowbanning, and the Politics of Authenticity" ](https://scds.ca/disabled-creators-shadowbanning/)
@@ -38,6 +38,6 @@ Taken together, these case studies highlight the need for further historical ana
 
 ## Watch a Recording of Dr. Jessalynn Keller's Guest Lecture
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/033b5641-caca-4fdc-842f-3b435edbaa05/public"></iframe>
 
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
+View the original [here](https://echo360.ca/media/033b5641-caca-4fdc-842f-3b435edbaa05/public).
