@@ -1,7 +1,7 @@
 Science Communication and Digital Activism
 2022 SCDS Graduate Resident events
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/2022-grevents) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/2022-grevents) with GitHub Pages. 
 
 
 Contributions by the following individuals: 
