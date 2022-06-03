@@ -23,7 +23,7 @@ The three projects discussed here highlight the diverse forms that digital scho
 
 <img src="assets/img/Siddiqui.png" alt="Workshop Title Slide" width="720">
 
-"Exploring Barriers to Misinformation Interventions in Public Libraries: A Guest Lecture by Abeer Siddiqui"
+<b> "Exploring Barriers to Misinformation Interventions in Public Libraries: A Guest Lecture by Abeer Siddiqui" </b>
 
 Misinformation has always been dangerous and divisive, but especially so in the wake of "fake news" and Covid-19 conspiracy theories. How can we, as scholars, librarians, and citizens, combat the spread of misinformation? What challenges might we encounter while doing this work?
 
@@ -41,7 +41,7 @@ At this virtual panel, Sherman Centre Graduate Residents will share their in-pr
 
 Adrianna Michell analyzed the Twitter hashtag #PaidSickDaysSaveLives, where workers in Ontario, Canada, expressed concerns over government sick leave policies amidst the early months of the COVID-19 pandemic. Emma Croll-Baehre examined how twin content creators across diverse platforms articulate and mediate their digital selves and lives. Jess Rauchberg explored the communicative strategies that censored or "shadowbanned" disabled TikTok and Instagram Creators rely upon for platform engagement. Special guest Professor Jessalynn Keller (Communication, Media, and Film, University of Calgary) then joined the session for a formal response to the Graduate Residents' presentations.
 
-<img src="assets/img/Keller.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/Keller.jpg" alt="Workshop Title Slide" width="720">
 
 "Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller"
 
