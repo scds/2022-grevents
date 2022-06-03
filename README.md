@@ -1,13 +1,13 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the DMDS workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+Science Communication and Digital Activism: 2022 Graduate Resident Events
+Recordings of the 2022 SCDS Graduate Resident events
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/2022-grevents) with GitHub Pages. 
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by Cameron Anderson, Emma Croll-Baehre, Duygu Ertemin, Jessalynn Keller, Adrianna Michell, Brianne Morgan, Akacia Propst, and Abeer Siddiqui
+- Content edited for online use by Veronica Litt
+- Online pages created by Veronica Litt
 
 
   
