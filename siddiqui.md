@@ -1,3 +1,8 @@
+---
+layout: default
+title: Science Communication
+nav_order: 3
+---
 ## II. Exploring Barriers to Misinformation Interventions in Public Libraries: A Guest Lecture by Abeer Siddiqui
 
 <img src="assets/img/Siddiqui.png" alt="Workshop Title Slide" width="720">
