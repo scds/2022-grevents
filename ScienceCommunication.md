@@ -32,4 +32,4 @@ View the original [here](https://echo360.ca/media/fdad3875-b6fa-457f-afd7-5db995
 - Brianne Morgan and Akacia Propst's SCDS Blog Post, ["Feel free to get your pun on": Creating a space for science communication"](https://scds.ca/feel-free-to-get-your-pun-on-creating-a-space-for-science-communication/)
 -  Learn about the [2021 SCDS Graduate Residents](https://scds.ca/2021-sherman-graduate-residents/)
 
-Continue viewing this suite of events by watching Abeer Siddiqui's Keynote.
+Continue viewing this suite of events by watching [Abeer Siddiqui's Keynote](https://scds.github.io/2022-grevents/siddiqui.html).
