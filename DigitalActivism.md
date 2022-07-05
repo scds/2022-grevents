@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digital Activism 
-nav_order: 3
+nav_order: 4
 ---
 
 # Social Media and Digital Activism Events
