@@ -11,3 +11,5 @@ We were delighted to host Abeer Siddiqui, a celebrated teacher with a record of 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/1688fb51-7c23-4d4f-956b-874ceae0dc58/public"></iframe>
 
 View the original [here](https://echo360.ca/media/1688fb51-7c23-4d4f-956b-874ceae0dc58/public).
+
+Continue viewing this suite of events by watching the second Graduate REsident panel on Digital Activism. 
