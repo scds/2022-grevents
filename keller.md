@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Science Communication
+title: Jessalynn Keller Keynote
 nav_order: 5
 ---
 ## II. Looking Back to Go Forward: Histories of Oppositional Feminist Politics & the Internet: A Guest Lecture by Dr. Jessalynn Keller
