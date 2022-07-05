@@ -17,4 +17,4 @@ We were delighted to host Abeer Siddiqui, a celebrated teacher with a record of 
 
 View the original [here](https://echo360.ca/media/1688fb51-7c23-4d4f-956b-874ceae0dc58/public).
 
-Continue viewing this suite of events by watching the second Graduate REsident panel on Digital Activism. 
+Continue viewing this suite of events by watching the second Graduate Resident panel on [Digital Activism](https://scds.github.io/2022-grevents/DigitalActivism.html). 
