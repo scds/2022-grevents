@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Science Communication
+title: Abeer Siddiqui Keynote
 nav_order: 3
 ---
 ## II. Exploring Barriers to Misinformation Interventions in Public Libraries: A Guest Lecture by Abeer Siddiqui
