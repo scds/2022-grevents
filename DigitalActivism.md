@@ -26,4 +26,4 @@ View the original [here](https://echo360.ca/media/c297b8e4-7227-43b4-a5ca-e32d49
 - Jess Rauchberg's SCDS Blog Post, ["Bestie Vibes Only? Disabled Content Creators, Shadowbanning, and the Politics of Authenticity" ](https://scds.ca/disabled-creators-shadowbanning/)
 - Learn about the [2021 SCDS Graduate Residents](https://scds.ca/2021-sherman-graduate-residents/)
 
-Continue viewing this suite of events by watching Jessalynn Keller's Keynote.
+Continue viewing this suite of events by watching [Jessalynn Keller's Keynote](https://scds.github.io/2022-grevents/keller.html).
